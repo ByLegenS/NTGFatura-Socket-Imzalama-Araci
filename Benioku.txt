@@ -1,0 +1,5 @@
+İmzalama aracı şifreyi girdikten sonra "IMZALAMAK ICIN VERI BEKLENIYOR..." ibaresi çıkmıyorsa kullandığınız 
+java yazılımının denetim masasında bulunan ayarlar kısmına girerek Java sekmesi altında 
+bulunan View butonuna basınız ve Runtime Parameters bölümüne -Xmx256m yazarak kaydedin.
+
+Görsel Anlatım : https://forum.efatura.gov.tr/view.php?id=327
